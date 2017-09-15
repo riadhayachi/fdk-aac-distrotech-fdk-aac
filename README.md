@@ -1,5 +1,7 @@
 # fdk-aac-distrotech-fdk-aac
-fdk-aac lib
+
+clone the repository
+
 git clone https://github.com/riadhayachi/fdk-aac-distrotech-fdk-aac.git
 
 cd fdk-aac
